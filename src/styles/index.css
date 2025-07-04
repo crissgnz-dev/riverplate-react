@@ -1,12 +1,21 @@
+:root{
+  --fuente-titulo: 'Bebas Neue', sans-serif;
+  --fuente-texto: 'Merriweather', serif;
+  --color-rojo: #ed192d;
+  --color-negro: #1e1e1e;
+}
+html{
+  scroll-behavior: smooth;
+}
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 body {
-  font-family: 'Merriweather', serif;
-  background-color: #f8f9fa;
-  color: #212529;
+  font-family: var(--fuente-texto);
+  background-color: #f1f1f1;
+  color: var(--color-negro);
 }
 img{
   max-width: 100%;
