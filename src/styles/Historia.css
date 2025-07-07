@@ -1,8 +1,9 @@
-.historia{
+#historia{
+    margin-top: 25px;
     min-height: 500px;
+    margin-bottom: 25px;
 }
 .title-section{
-    margin-top: 25px;
     font-family: var(--fuente-titulo);
     font-size: 32px;
     text-align: center;
@@ -14,5 +15,18 @@
     height: 3px;
     background-color: var(--color-rojo);
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
+}
+#timeline-container{
+    min-height: 600px;
+    width: 100%;
+}
+.tl-text .tl-timeline {
+  font-family: 'Montserrat', sans-serif !important;
+}
+.tl-text .tl-headline{
+  color: var(--color-negro) !important;
+}
+.tl-headline {
+  font-family: 'Bebas Neue' !important;
 }

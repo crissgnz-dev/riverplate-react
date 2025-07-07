@@ -1,0 +1,233 @@
+{
+  "title": {
+    "text": {
+      "headline": "Historia de River Plate",
+      "text": "Desde 1901 hasta hoy"
+    },
+    "media": {
+      "url": "/riverplate.svg"
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "1901", "month": "05", "day": "25" },
+      "text": {
+        "headline": "Fundación del club",
+        "text": "El 25 de mayo se funda River Plate tras la fusión de La Rosales y Santa Rosa, dos equipos del barrio de La Boca. "
+      },
+      "media": {
+        "url": "https://media.jujuyalmomento.com/p/59d0736cc5fdb2b8b7f72eb5e9932c02/adjuntos/260/imagenes/002/105/0002105664/1200x0/smart/imagepng.png"
+      }
+    },
+    {
+      "start_date": { "year": "1908" },
+      "text": {
+        "headline": "Primer Ascenso a Primera",
+        "text": "River logra el ascenso a la Primera División del fútbol argentino."
+      },
+      "media": {
+        "url": "https://media.jujuyalmomento.com/p/19842496b49991e38621c929bcd83d4a/adjuntos/260/imagenes/002/105/0002105669/1200x0/smart/fotojet-2022-05-24t105109575jpg.jpg",
+        "caption": "Equipo de 1908"
+      }
+    },
+    {
+      "start_date": { "year": "1920" },
+      "text": {
+        "headline": "Mudanza a Nuñez",
+        "text": "El club se traslada al barrio de Nuñez, donde años después se construiría el Estadio Monumental."
+      }
+    },
+    {
+      "start_date": { "year": "1932" },
+      "text": {
+        "headline": "Primer Título Profesional",
+        "text": "River gana su primer campeonato profesional bajo la dirección de Renato Cesarini."
+      },
+      "media":{
+        "url": "https://www.cariverplate.com.ar/imagenes/contenidos/2015-01/606-rivercampeon32.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "1936", "month": "12", "day": "13" },
+      "text": {
+        "headline": "La Máquina",
+        "text": "Debuta el legendario equipo conocido como 'La Máquina' con jugadores como Pedernera, Labruna y Loustau."
+      },
+      "media": {
+        "url": "https://thehardtackle.com/wp-content/uploads/2014/02/La_Maquina.jpg",
+        "caption": "La delantera más famosa de la historia"
+      }
+    },
+    {
+      "start_date": { "year": "1938", "month": "05", "day": "25" },
+      "text": {
+        "headline": "Inauguración del Monumental",
+        "text": "Se abre el Estadio Monumental, el más grande de Argentina con capacidad para 84,567 espectadores."
+      },
+      "media": {
+        "url": "https://www.cariverplate.com.ar/imagenes/contenidos/2015-01/656-seinauguraelmonumental.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "1941" },
+      "text": {
+        "headline": "Tetracampeonato histórico",
+        "text": "River gana 4 títulos seguidos (1941-42-43-44) con 147 goles en 120 partidos."
+      },
+      "media": {
+        "url": "https://1.bp.blogspot.com/-znwnboRGyK8/XccJzQAdmmI/AAAAAAAACts/AHRLQD6rcLwr4SZrBsQBFyvPU1GI6NCaQCLcBGAsYHQ/w1200-h630-p-k-no-nu/FB_IMG_1573324844122.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "1947" },
+      "text": {
+        "headline": "Récord de goles",
+        "text": "Alfredo Di Stéfano debuta y River anota 90 goles en 30 partidos (récord aún vigente)."
+      },
+      "media":{
+        "url": "https://th.bing.com/th/id/R.128c57989f1303751e18a01f8bb1bd0a?rik=WEfET4EuC66xtQ&riu=http%3a%2f%2fwww.cariverplate.com.ar%2fimagenes%2fcontenidos%2f2016-07%2f5562-distefano2.jpg&ehk=TCRWqoLfFaF%2f%2fTKKc2RFejp8PXK75HkDZ2hBpE0LH9k%3d&risl=&pid=ImgRaw&r=0"
+      }
+    },
+    {
+      "start_date": { "year": "1957" },
+      "text": {
+        "headline": "Primer Título Internacional",
+        "text": "River gana la Copa Aldao, su primer trofeo internacional."
+      },
+      "media": {
+        "url" : "https://www.cariverplate.com.ar/imagenes/contenidos/2015-01/635-rivertricampeon.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "1968", "month": "6", "day": "23"},
+      "text": {
+        "headline": "La puerta 12",
+        "text": "Tras haberse disputado en el Monumental el clásico River-Boca hubo un incidente al atascarse la puerta N°12, donde murieron asfixiados y aplastados más de 71 hinchas."
+      },
+      "media": {
+        "url" : "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/RFOGGKQ54VAKVM25JBCSXPFQ2E.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "1978", "month": "6", "day": "25"},
+      "text": {
+        "headline": "Mundial 1978",
+        "text": "El estadio Monumental es escenario del campeonato mundial de fútbol. Allí, el 25 de junio, Argentina vence a Holanda por 3 a 1 en tiempo suplementario con dos goles de Mario Alberto Kempes y otro de Daniel Bertoni."
+      },
+      "media": {
+        "url" : "https://www.cariverplate.com.ar/imagenes/contenidos/2015-01/619-mundial1978.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "1986", "month": "10", "day": "29" },
+      "text": {
+        "headline": "Primera Copa Libertadores",
+        "text": "Dirigido por Héctor Veira, River conquista su primera Libertadores derrotando a América de Cali."
+      },
+      "media":{
+        "url": "https://media.tycsports.com/files/2020/10/29/130666/a-34-anos-de-la-primera-libertadores-de-rives.jpg"
+      }
+    },
+     {
+      "start_date": { "year": "1986", "month": "12", "day": "14" },
+      "text": {
+        "headline": "Primera Copa Intercontinental",
+        "text": "Gana 1-0 al Steaua Bucarest con gol de Antonio Alzamendi en Tokio."
+      },
+      "media": {
+        "url": "https://www.laizquierdadiario.cl/IMG/jpg/intercontinental_1986.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "1996" },
+      "text": {
+        "headline": "Segunda Copa Libertadores",
+        "text": "Con Francescoli como figura, River vence a América de Cali nuevamente."
+      },
+      "media":{
+        "url": "https://media.tycsports.com/files/2021/06/26/299305/river-1996_862x485.jpg?v=2"
+      }
+    },
+    {
+      "start_date": { "year": "2001", "month": "05", "day": "25"},
+      "text": {
+        "headline": "100 años de gloria",
+        "text": "El 25 de mayo el mundo riverplatense se viste de fiesta para celebrar el centenario de la institución deportiva más importante del país."
+      },
+      "media":{
+        "url": "https://www.cariverplate.com.ar/imagenes/contenidos/2015-01/631-100aniosdegloria.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "2011", "month": "06", "day": "26" },
+      "text": {
+        "headline": "Crisis institucional y deportiva",
+        "text": "En 2011, producto de una profunda crisis institucional y deportiva, el equipo de Primera División perdió la categoría."
+      },
+      "media": {
+        "url": "https://i0.wp.com/once.pe/wp-content/uploads/2021/05/river6.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "2012", "month": "06", "day": "23" },
+      "text": {
+        "headline": "River vuelve a ser River",
+        "text": "Bajo la gestión de Rodolfo D’Onofrio, el Club volvió a ocupar el lugar que históricamente mereció: en los primeros años de mandato, el Millonario ganó el Torneo Final 2014, la Supercopa Argentina 2014, Copa Sudamericana 2014, Recopa Sudamericana 2015, Copa Libertadores 2015 y Copa Suruga Bank 2015. A estos títulos se les sumó el ordenamiento institucional."
+      },
+      "media": {
+        "url": "https://www.ole.com.ar/images/2020/06/22/PlI1l51j6_720x0__1.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "2014" },
+      "text": {
+        "headline": "Era Marcelo Gallardo",
+        "text": "Comienza la era más ganadora del club con 14 títulos internacionales, incluyendo 2 Copas Libertadores."
+      },
+      "media": {
+        "url": "https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/River-Plate-v-Defensa-y-Justicia---Torneo-de-Trans-005124c6a8b77a27a24b69c400bc090d.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "2015" },
+      "text": {
+        "headline": "Tercer Copa Libertadores",
+        "text": "Gana 3-0 a Tigres UANL con goles de Cavenaghi, Sánchez y Pisculichi."
+      },
+      "media":{
+        "url": "https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2015/08/06/150806042937_sp_river_plate_copa_libertadores_624x351_reuters.jpg"
+      }
+    },
+    {
+      "start_date": { "year": "2018", "month": "12", "day": "09" },
+      "text": {
+        "headline": "La Gloria en Madrid",
+        "text": "River llegó a la definición de la Copa Libertadores ante Boca Juniors, en lo que fue un acontecimiento histórico para el fútbol sudamericano y mundial. Luego del empate 2-2 en el partido de ida, y tras una decisión de la CONMEBOL de jugar el segundo partido en el Santiago Bernabéu de Madrid, el equipo de Marcelo Gallardo fue protagonista de un título para recordar toda la vida."
+      },
+      "media": {
+        "url": "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_71rrgxwn/width/630/height/354/cache_st/2018121013256",
+        "caption": "Gol de Quintero en la final"
+      }
+    },
+    {
+      "start_date": { "year": "2022" },
+      "text": {
+        "headline": "Adiós a Gallardo",
+        "text": "Marcelo Gallardo deja el club como el DT más ganador de la historia con 14 títulos."
+      },
+      "media": {
+        "url": "https://ds-images.bolavip.com/news/image?src=https://images.lapaginamillonaria.com/webp/full/LPM_20240731_LPM_86040_GettyImages-1244027525-scaled-e1722131570611-1024x577_2586690f.webp&width=1024&height=577"
+      }
+    },
+    {
+      "start_date": { "year": "2023" },
+      "text": {
+        "headline": "Nueva Era con Demichelis",
+        "text": "Martín Demichelis asume como entrenador, comenzando un nuevo ciclo."
+      },
+      "media":{
+        "url": "https://tse3.mm.bing.net/th/id/OIP.n7EY21eSDngT6Vw4JxaWiwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+      }
+    }
+  ]
+}

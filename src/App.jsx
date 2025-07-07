@@ -1,5 +1,6 @@
 import Hero from './components/Hero';
 import Historia from './components/Historia';
+import Titulos from './components/Titulos'
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Hero />
       <Historia />
+      <Titulos />
     </>
   )
 }

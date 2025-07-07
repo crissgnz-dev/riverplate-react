@@ -1,0 +1,13 @@
+.titulos{
+    position: relative;
+    background:
+     url(../assets/background.png)
+     ;
+    background-position: center;
+    background-size: cover;
+    min-height: 800px;
+}
+.titulos .title-section{
+    margin-top: 25px;
+    color: #fff;
+}
